@@ -1,0 +1,8 @@
+### Node template
+# Logs
+logs
+*.log
+node_modules/
+
+public/
+.npm
